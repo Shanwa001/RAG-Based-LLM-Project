@@ -3,4 +3,5 @@ This project is a web application built with Streamlit that allows users to uplo
 The embeddings are stored in a Chroma vector database, which enables fast similarity search when a user asks a question. When a question is submitted, the app retrieves the most relevant document chunks from the vector database. These chunks, along with the question, are passed to Google’s Gemini-Pro language model to generate a detailed and context-aware answer.
 The system ensures that answers are accurate by only using information found in the uploaded PDFs, avoiding guessing or hallucinating answers. The app provides an easy-to-use interface where users upload PDFs, process them, and ask questions interactively.
 This project showcases how to combine PDF processing, text chunking, vector embeddings, and large language models into a Retrieval-Augmented Generation (RAG) system, providing a powerful tool for exploring large collections of documents through natural language queries.
-![Screenshot 2025-06-02 101702](https://github.com/user-attachments/assets/2158d2d7-f2ba-4a95-bd2e-c763e9fb22f8)
+![Screenshot 2025-06-03 084815](https://github.com/user-attachments/assets/19681688-cb8f-4b90-bf40-4d2bcda885fe)
+

@@ -1,0 +1,7 @@
+stremlit
+langchain
+chromada
+openai
+groq
+python-dotenv
+pypdf2
